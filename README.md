@@ -5,7 +5,7 @@ I am very passionate about improving my coding skills, developing applications &
 I primarily focus on HTML ,CSS & JavaScript and also know the basics of backend like Php & MySql.👀
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,figma,vscode,git,github,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,php,mysql,figma,vscode,git,github,netlify)](https://skillicons.dev)
 
 ## 🌐 My Socials
 <a href="https://instagram.com/iam_dejv_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_dejv_k" height="30" width="40" /></a>

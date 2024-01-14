@@ -7,7 +7,9 @@ I primarily focus on HTML ,CSS & JavaScript and also know the basics of backend 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,figma,vscode,git,github,netlify)](https://skillicons.dev)
 
 ## 🌐 My socials
-<a href="https://www.linkedin.com/in/david-kalmus-5b6b99299/">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)]([https://skillicons.dev](https://www.linkedin.com/in/david-kalmus-5b6b99299/))
+
+
 
 <!--
 **DejvCodes/DejvCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ## Hey 👋 What's up? 👨🏻‍💻
 My name is Dejv 👨🏻‍💻<br>
-Junior Front-end Developer at the beginning of career.🚀<br>
+Junior Developer at the beginning of career.🚀<br>
 I am very passionate about improving my coding skills, developing applications & websites.📚<br>
 I primarily focus on HTML ,CSS & JavaScript and also know the basics of backend like Php & MySql.👀
 

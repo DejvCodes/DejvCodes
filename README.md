@@ -4,7 +4,7 @@ I am very passionate about improving my coding skills, developing applications &
 I also know the basics of backend technologies like Php & MySql.👀
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,figma,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,figma,vscode,git,github,netlify)](https://skillicons.dev)
 
 <!--
 **DejvCodes/DejvCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

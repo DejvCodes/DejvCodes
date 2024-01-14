@@ -1,4 +1,4 @@
-## Hey 👋 What's up?
+## Hey 👋 What's up? 👨🏻‍💻
 
 Junior Front-End Developer at the beginning of career.🚀
 I am very passionate about improving my coding skills, developing applications & websites. Proficient in semantic HTML, CSS, JavaScript.📚

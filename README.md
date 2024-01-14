@@ -1,5 +1,5 @@
 ## Hey 👋 What's up? 👨🏻‍💻
-Junior Front-End Developer at the beginning of career.🚀
+Junior Front-End Developer at the beginning of career.🚀<br>
 I am very passionate about improving my coding skills, developing applications & websites. Proficient in semantic HTML, CSS, JavaScript.📚
 I also know the basics of backend technologies like Php & MySql.👀
 

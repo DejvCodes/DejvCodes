@@ -4,6 +4,8 @@ Junior Front-End Developer at the beginning of career.🚀
 I am very passionate about improving my coding skills, developing applications & websites. Proficient in semantic HTML, CSS, JavaScript.📚
 I also know the basics of backend technologies like Php & MySql.👀
 
+## 💻 Tech Stack
+
 
 <!--
 **DejvCodes/DejvCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

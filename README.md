@@ -1,4 +1,4 @@
-## Hey 👋 What's up? 👨🏻‍💻
+## Hey 👋🏻 What's up? 👨🏻‍💻
 My name is Dejv 👨🏻‍💻<br>
 Junior Developer at the beginning of career.🚀<br>
 I am very passionate about improving my coding skills, developing applications & websites.📚<br>

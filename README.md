@@ -8,7 +8,7 @@ I primarily focus on HTML ,CSS & JavaScript and also know the basics of backend 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,php,mysql,figma,vscode,git,github,netlify)](https://skillicons.dev)
 
 ## 🌐 My Socials
-<a href="https://instagram.com/dejvcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dejvcodes" height="30" width="40" /></a>
+<a href="https://instagram.com/dejvcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dejvcodes" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/david-kalmus-5b6b99299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-kalmus-5b6b99299/" height="30" width="40" /></a>
 
 ##

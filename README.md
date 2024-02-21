@@ -15,7 +15,8 @@ I primarily focus on HTML, CSS & JavaScript and also know the basics of backend 
 🌱 I’m currently learning more about JavaScript.
 
 ##
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DejvCodes&title_color=fff&text_color=ffff&bg_color=161b22&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejvCodes&layout=compact&title_color=fff&text_color=ffff&bg_color=161b22&hide_border=true&locale=en&custom_title=Top%20%Languages)
+
 <!--
 **DejvCodes/DejvCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

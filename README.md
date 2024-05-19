@@ -4,8 +4,6 @@ Junior Developer at the beginning of career.🚀<br>
 I am very passionate about improving my coding skills, developing applications & websites.📚<br>
 I primarily focus on HTML, CSS & JavaScript and also know the basics of backend like PHP & MySQL.👀 <br>
 
-Currently I am improving my knowledge about React 🌱
-
 ## 💻 Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,wordpress,jquery,php,mysql,firebase,figma,vscode,git,github)](https://skillicons.dev)
 

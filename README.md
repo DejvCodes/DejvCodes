@@ -1,7 +1,7 @@
 ## Hey 👋🏻 What's up? 👨🏻‍💻
 My name is Dejv 👨🏻‍💻<br>
 Junior Developer at the beginning of career.🚀<br>
-I am very passionate about improving my coding skills, developing applications & websites.📚<br>
+I'm very passionate about improving my coding skills, developing applications & websites.📚<br>
 I primarily focus on HTML, CSS & JavaScript and also know the basics of backend like PHP & MySQL.👀 <br>
 
 ## 💻 Tech Stack 
@@ -12,7 +12,7 @@ I primarily focus on HTML, CSS & JavaScript and also know the basics of backend 
 <a href="https://www.linkedin.com/in/david-kalmus-5b6b99299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-kalmus-5b6b99299/" height="30" width="40" /></a>
 
 ##
-🌱 I am currently learning more about React.
+🌱 I'm currently learning more about React.
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejvCodes&layout=compact&title_color=fff&text_color=ffff&bg_color=161b22&hide_border=true&locale=en&custom_title=Top%20%Languages)

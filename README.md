@@ -6,7 +6,7 @@ I am a Front-End Developer at the beginning of my career and I really enjoy impr
 my coding skills, developing applications and websites. 📚 <br>
 I primarily focus on HTML, CSS & JavaScript and also know the basics of backend like PHP & MySQL.👀 <br>
 
-Front-end / JavaScript / React / Wordpress <br> 🚀
+Front-end / JavaScript / React / Wordpress 🚀<br> 
 Fan of cars, motorbikes, travelling, a good cup of coffee and of course coding. <br>
 
 I'm currently learning more about React.🌱 

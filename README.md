@@ -1,7 +1,9 @@
 ## Hey 👋🏻 What's up? 👨🏻‍💻
 My name is Dejv 👨🏻‍💻<br>
-Junior Developer at the beginning of career.🚀<br>
-I'm very passionate about improving my coding skills, developing applications & websites.📚<br>
+
+I am 22 years old and I am from Pardubice region in the Czech Republic. 👨🏻‍💻 <br>
+I am a Front-End Developer at the beginning of my career and I really enjoy improving  <br>
+my coding skills, developing applications and websites. 📚 <br>
 I primarily focus on HTML, CSS & JavaScript and also know the basics of backend like PHP & MySQL.👀 <br>
 
 ## 💻 Tech Stack 

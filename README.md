@@ -7,7 +7,7 @@ my coding skills, developing applications and websites. 📚 <br>
 I primarily focus on HTML, CSS & JavaScript and also know the basics of backend like PHP & MySQL.👀 <br>
 
 Front-end / JavaScript / React / Wordpress 🚀<br> 
-Fan of cars, motorbikes, travelling, a good cup of coffee and of course coding. <br> <br>
+Fan of cars, motorbikes, travelling, a good cup of coffee and of course coding. <br> 
 Most of the time I'm coding or I'm in the gym.
 
 I'm currently learning more about React.🌱 

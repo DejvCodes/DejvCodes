@@ -10,7 +10,7 @@ Front-end / JavaScript / React / Wordpress 🚀<br>
 Fan of cars, motorbikes, travelling, a good cup of coffee and of course coding. <br> 
 Most of the time I'm coding or I'm in the gym.
 
-I'm currently learning more about React.🌱 
+I'm currently learning more about React. 🌱 
 
 ## 💻 Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,wordpress,jquery,php,mysql,firebase,figma,vscode,git,github)](https://skillicons.dev)

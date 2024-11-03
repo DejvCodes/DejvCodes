@@ -16,7 +16,7 @@ My best rest is traveling.
 I'm currently learning more about React. 🌱 
 
 ## 💻 Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,saas,react,wordpress,jquery,php,mysql,firebase,figma,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,react,wordpress,jquery,php,mysql,firebase,figma,vscode,git,github)](https://skillicons.dev)
 
 ## 🌐 My Socials
 <a href="https://instagram.com/dejvcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dejvcodes" height="32" width="42" /></a>

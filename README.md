@@ -2,7 +2,7 @@
 Hi, I'm Dejv 👨🏻‍💻<br>
 
 I'm a 22 year old front-end developer from Pardubice region. I enjoy improving <br> 
-my coding skills and building web applications. 🙋🏻‍♂️"
+my coding skills and building web applications. 🙋🏻‍♂️
 
 I focus on HTML, CSS, JavaScript and the modern React library, which I consider my main <br>
 tool for front-end development. I also have experience with WordPress. 📚

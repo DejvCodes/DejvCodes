@@ -1,19 +1,19 @@
 ## Hey 👋🏻 What's up? 👨🏻‍💻
 Hi, I'm Dejv 👨🏻‍💻<br>
 
-I'm 22 years old and I'm from Pardubice region in the Czech Republic. 🙋🏻‍♂️<br>
-I'm a front-end developer at the beginning of my career and I really enjoy improving  <br>
-my coding skills, developing applications and websites. 📚 <br>
-I primarily focus on HTML, CSS, JavaScript and modern library React. <br>
-I consider React JS as my main working tool. I find it very useful for front-end development. <br>
+I am a 22-year-old front-end developer from Pardubice region. I enjoy improving <br> 
+my coding skills and building web applications. 🙋🏻‍♂️
 
-Front-end / JavaScript / React / Wordpress 🚀 <br> 
+I focus on HTML, CSS, JavaScript and the modern React library, which I consider my main <br>
+tool for front-end development. I also have experience with WordPress. 📚
 
-Fan of cars, motorbikes, travelling, a good cup of coffee and of course coding. <br> 
-Most of the time I'm coding or I'm in the gym. <br> 
-My best rest is traveling.
+Front-end / JavaScript / React / Wordpress 🚀
 
-I'm currently learning more about React. 🌱 
+Most of the time you can find me coding or at the gym. My best way to relax? Traveling. 🌏 <br>
+I'm a fan of cars, motorbikes, a good cup of coffee and of course coding.
+
+Right now, I'm mainly deepening my knowledge of React. 🌱
+
 
 ## 💻 Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,wordpress,sass,bootstrap,mysql,firebase,figma,vscode,git,github)](https://skillicons.dev)

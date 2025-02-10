@@ -1,28 +1,27 @@
 ## Hey 👋🏻 What's up? 👨🏻‍💻
 Hi, I'm Dejv 👨🏻‍💻<br>
 
-I'm a 22 year old front-end developer from Pardubice region. I enjoy improving <br> 
+I'm a 22-year-old front-end developer from Pardubice region. I enjoy improving <br> 
 my coding skills and building web applications. 🙋🏻‍♂️
 
-I focus on HTML, CSS, JavaScript and the modern React library, which I consider my main <br>
-tool for front-end development. I also have experience with WordPress. 📚
+I focus on HTML, CSS, JavaScript, TypeScript and the modern React library, which I consider my <br>
+main tool for front-end development. I also have experience with WordPress. 📚
 
-Front-end / JavaScript / React / Wordpress 🚀
+Front-end / JavaScript / TypeScript / React / Tailwind 🚀
 
-Most of the time you can find me coding or at the gym. My best way to relax? Traveling. 🌏 <br>
-I'm a fan of cars, motorbikes, good coffee and of course coding.
+Most of the time you can find me coding or at the gym. My best way to relax? Travelling. 🌏 <br>
+I'm a fan of cars, motorbikes, great coffee and of course coding.
 
-I'm currently learning more about React. 🌱
-
+I'm currently learning more about TypeScript. 🌱
 
 ## 💻 Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,wordpress,sass,bootstrap,mysql,firebase,figma,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,sass,wordpress,git,vscode,github,figma)](https://skillicons.dev)
 
 ## 🌐 My Socials
-<a href="https://instagram.com/dejvcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dejvcodes" height="32" width="42" /></a>
-<a href="https://www.linkedin.com/in/david-kalmus-5b6b99299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-kalmus-5b6b99299/" height="30" width="40" /></a>
-
+<a href="https://instagram.com/dejvcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iam_dejv_k" height="32" width="42" /></a>
+<a href="https://www.linkedin.com/in/david-kalmus-5b6b99299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-kalmus-5b6b99299/" height="32" width="42" /></a>
 ##
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejvCodes&layout=compact&title_color=fff&text_color=ffff&bg_color=161b22&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
 <!--

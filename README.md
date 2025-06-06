@@ -15,7 +15,7 @@ I'm a fan of cars, motorbikes, great coffee and of course coding.
 I'm currently learning more about TypeScript. 🌱
 
 ## 💻 Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwindcss,sass,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwindcss,sass,git,gitlab,vscode)](https://skillicons.dev)
 
 ## 🌐 My Socials
 <a href="https://instagram.com/dejvcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iam_dejv_k" height="32" width="42" /></a>

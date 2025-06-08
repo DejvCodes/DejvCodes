@@ -7,7 +7,7 @@ my coding skills and building web applications. 🙋🏻‍♂️
 I focus on HTML, CSS, JavaScript, TypeScript and the modern library React. I consider React.js as <br>
 my main tool for front-end development. I also have experience with WordPress. 📚
 
-Front-end / JavaScript / TypeScript / React / Vue 3 / Tailwind CSS 
+JavaScript / TypeScript / React / Vue 3 / Tailwind CSS 
 
 Most of the time you can find me coding or at the gym. My favorite way to relax? Travelling. 🌏 <br>
 I'm a fan of cars, motorbikes, great coffee and of course coding.

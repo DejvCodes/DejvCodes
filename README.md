@@ -15,7 +15,7 @@ I'm a fan of cars, motorbikes, great coffee and of course coding.
 I'm currently learning more about Vue 3. 🌱
 
 ## 💻 Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,vue,pinia,tailwindcss,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,vue,pinia,tailwindcss,sass)](https://skillicons.dev) <br/>
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,vscode)](https://skillicons.dev)
 
 <!-- ## 🌐 My Socials

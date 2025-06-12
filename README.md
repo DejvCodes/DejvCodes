@@ -15,8 +15,7 @@ I'm a fan of cars, motorbikes, great coffee and of course coding.
 I'm currently learning more about Vue 3. 🌱
 
 ## 💻 Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,vue,pinia,tailwindcss,sass)](https://skillicons.dev) <br/>
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,vue,pinia,tailwindcss,sass,git,gitlab,vscode)](https://skillicons.dev)
 
 <!-- ## 🌐 My Socials
 <a href="https://instagram.com/dejvcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iam_dejv_k" height="32" width="42" /></a>

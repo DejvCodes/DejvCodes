@@ -12,7 +12,7 @@ JavaScript / TypeScript / React / Vue 3 / Tailwind
 Most of the time you can find me coding or at the gym. My favorite way to relax? Travelling. 🌏 <br>
 I'm a fan of cars, motorbikes, great coffee and of course coding.
 
-I'm currently learning more about Vue 3. 🌱
+I'm currently learning more about Vue 3 and Nuxt. 🌱
 
 ## 💻 Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,vue,nuxt,pinia,tailwindcss,sass,git,gitlab,vscode)](https://skillicons.dev)

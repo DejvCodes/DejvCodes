@@ -1,16 +1,13 @@
 ## Hey 👋🏻 What's up? 👨🏻‍💻
 Hi, I'm Dejv 👨🏻‍💻<br>
 
-I'm a 22-year-old front-end developer from the Pardubice region. I enjoy improving <br> 
-my coding skills and building web applications. 🙋🏻‍♂️
+I'm a 22-year-old front-end developer from the Pardubice region. I enjoy improving my coding skills and building web applications. 🙋🏻‍♂️
 
-I focus on JavaScript, TypeScript, Tailwind CSS, Vue 3, Nuxt, and the modern library React — my main <br> 
-tools for front-end development. I also have experience with WordPress. 📚
+I focus on JavaScript, TypeScript, Tailwind CSS, Vue 3, Nuxt, and the modern library React — my main tools for front-end development. I also have experience with WordPress. 📚
 
 JavaScript / TypeScript / React / Vue 3 / Nuxt / Tailwind
 
-Most of the time, you can find me coding or at the gym. My favourite way to relax? Travelling. 🌏 <br>
-I'm a fan of cars, motorbikes, great coffee and of course coding.
+Most of the time, you can find me coding or at the gym. My favourite way to relax? Travelling. 🌏 I'm a fan of cars, motorbikes, great coffee and of course coding.
 
 I'm currently learning more about Vue 3 and Nuxt. 🌱
 

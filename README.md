@@ -4,8 +4,8 @@ Hi, I'm Dejv 👨🏻‍💻<br>
 I'm a 23-year-old front-end developer from the Pardubice region. I enjoy improving <br> 
 my coding skills and building web applications. 🙋🏻‍♂️
 
-I focus on JavaScript, TypeScript, Tailwind CSS, Vue 3, Nuxt, and the modern library React <br>
-— my main tools for front-end development. I also have experience with WordPress. 📚
+I focus on JavaScript, TypeScript, Tailwind CSS, Vue 3, Nuxt, and the modern library React — my main tools <br>  
+for front-end development. I also have experience with WordPress. 📚
 
 JavaScript / TypeScript / React / Vue 3 / Nuxt / Tailwind
 

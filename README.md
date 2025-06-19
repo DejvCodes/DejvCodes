@@ -1,7 +1,7 @@
 ## Hey 👋🏻 What's up? 👨🏻‍💻
 Hi, I'm Dejv 👨🏻‍💻<br>
 
-I'm a 23 years old front-end developer from the Pardubice region. I enjoy improving <br> 
+I'm a 23-year-old front-end developer from the Pardubice region. I enjoy improving <br> 
 my coding skills and building web applications. 🙋🏻‍♂️
 
 I focus on JavaScript, TypeScript, Tailwind CSS, Vue 3, Nuxt, and the modern library React — my main <br> 

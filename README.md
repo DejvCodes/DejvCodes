@@ -14,7 +14,7 @@ JavaScript / TypeScript / React / Vue 3 / Nuxt / Tailwind / Cypress
 In the future, I would like to build mobile applications with React Native.
 
 Most of the time, you can find me coding or at the gym. My favourite way to relax? Travelling. <br>
-I love cars, motorbikes, fitness, great coffee and of course coding.
+I love cars, motorbikes, great coffee and of course coding.
 
 Besides coding, I’m passionate about music – I enjoy creating edits with my Launchkey MK4, <br>
 and DJing with my DDJ-FLX4. It’s a space where I experiment and express ideas differently from code. 🎶

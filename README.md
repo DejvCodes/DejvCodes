@@ -22,9 +22,8 @@ and DJing with my DDJ-FLX4. It’s a space where I experiment and express ideas 
 -- ᴀ ᴘʀᴏʙʟᴇᴍ ɪꜱ ᴀ ᴄʜᴀɴᴄᴇ ꜰᴏʀ ʏᴏᴜ ᴛᴏ ᴅᴏ ʏᴏᴜʀ ʙᴇꜱᴛ
 
 ## 💻 Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vue,nuxt,apollo,tailwindcss,cypress,gitlab,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,redux,vue,nuxt,apollo,tailwindcss,cypress,gitlab,vscode)](https://skillicons.dev)
 
-<!-- icons - redux -->
 
 <!-- ## 🌐 My Socials
 <a href="https://instagram.com/dejvcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iam_dejv_k" height="32" width="42" /></a>

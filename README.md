@@ -11,7 +11,7 @@ JavaScript / TypeScript / React / Vue 3 / Nuxt / Tailwind / Cypress
 
 <!-- I'm currently learning more about Vue 3 and Nuxt. 🌱 -->
 
-In the future, I would also like to build mobile applications with React Native. 📱
+In the future, I would like to build mobile applications with React Native. 📱
 
 Most of the time, you can find me coding or at the gym. My favourite way to relax? Travelling. <br>
 I love cars, motorbikes, fitness, great coffee and of course coding.

@@ -19,7 +19,7 @@ I'm currently learning more about Vue 3 and Nuxt. 🌱
 
 In the future, I would also like to build mobile applications with React Native. 📱
 
--
+--
 ᴀ ᴘʀᴏʙʟᴇᴍ ɪꜱ ᴀ ᴄʜᴀɴᴄᴇ ꜰᴏʀ ʏᴏᴜ ᴛᴏ ᴅᴏ ʏᴏᴜʀ ʙᴇꜱᴛ
 
 ## 💻 Tech Stack 

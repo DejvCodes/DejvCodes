@@ -1,5 +1,5 @@
-## Hey 👋🏻 What's up? 👨🏻‍💻
-Hi, I'm Dejv 👨🏻‍💻<br>
+## Hey 👋🏻 I'm Dejv? 👨🏻‍💻
+<!-- Hi, I'm Dejv 👨🏻‍💻<br> -->
 
 I'm a 23-year-old front-end developer from the Pardubice region. I enjoy improving my coding skills <br>
 and building web applications. 🙋🏻‍♂️

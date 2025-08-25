@@ -2,7 +2,7 @@
 <!-- Hi, I'm Dejv 👨🏻‍💻<br> -->
 
 I'm a 23-year-old front-end developer from the Pardubice region. I enjoy improving my coding <br> 
-skills and building web applications. 🙋🏻‍♂️
+skills and building web applications.
 
 <!-- I focus on JavaScript, TypeScript, Vue 3, Nuxt, Tailwind CSS, and the modern library React — my 
 main tools for front-end development. I also have experience with Cypress and WordPress. 📚 -->
@@ -17,7 +17,7 @@ Most of the time, you can find me coding or at the gym. My favourite way to rela
 I love cars, motorbikes, fitness, great coffee and of course coding.
 
 Besides coding, I’m passionate about music – I enjoy creating edits with my Launchkey MK4, <br>
-and DJing with my DDJ-FLX4. It’s a space where I experiment and express ideas differently from code. 🎶
+and DJing with my DDJ-FLX4. It’s a space where I experiment and express ideas differently from code.
 
 -- ᴀ ᴘʀᴏʙʟᴇᴍ ɪꜱ ᴀ ᴄʜᴀɴᴄᴇ ꜰᴏʀ ʏᴏᴜ ᴛᴏ ᴅᴏ ʏᴏᴜʀ ʙᴇꜱᴛ
 

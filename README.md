@@ -7,7 +7,8 @@ skills and building web applications.
 <!-- I focus on JavaScript, TypeScript, Vue 3, Nuxt, Tailwind CSS, and the modern library React — my 
 main tools for front-end development. I also have experience with Cypress and WordPress. 📚 -->
 
-JavaScript / TypeScript / React / Vue 3 / Nuxt / Tailwind / Cypress
+JavaScript / TypeScript / React / Vue 3 / Nuxt / Tailwind 
+<!-- / Cypress -->
 
 <!-- I'm currently learning more about Vue 3 and Nuxt. 🌱 -->
 
@@ -16,8 +17,8 @@ In the future, I would like to build mobile applications with React Native.
 Most of the time, you can find me coding or at the gym. My favourite way to relax? Travelling. <br>
 I love cars, motorbikes, fitness, great coffee and of course coding.
 
-<!-- Besides coding, I’m passionate about music – I enjoy creating edits with my Launchkey MK4, <br>
-and DJing with my DDJ-FLX4. It’s a space where I experiment and express ideas differently from code. -->
+Besides coding, I’m passionate about music – I enjoy creating edits with my Launchkey MK4, <br>
+and DJing with my DDJ-FLX4. It’s a space where I experiment and express ideas differently from code.
 
 -- ᴀ ᴘʀᴏʙʟᴇᴍ ɪꜱ ᴀ ᴄʜᴀɴᴄᴇ ꜰᴏʀ ʏᴏᴜ ᴛᴏ ᴅᴏ ʏᴏᴜʀ ʙᴇꜱᴛ --
 

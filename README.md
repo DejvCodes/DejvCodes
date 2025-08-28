@@ -11,7 +11,7 @@ JavaScript / TypeScript / React / Vue.js / Nuxt / Tailwind
 
 <!-- I'm currently learning more about Vue 3 and Nuxt. 🌱 -->
 
-In the future, I’d like to develop mobile apps with React Native.
+In the future, I’d like to develop mobile apps with React Native. 
 
 Most of the time, you can find me coding or at the gym. My favourite way to relax? Travelling. <br>
 I’m passionate about cars, motorbikes, fitness, great coffee and of course coding.

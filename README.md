@@ -6,7 +6,7 @@ skills and building web & mobile applications.
 <!-- I focus on JavaScript, TypeScript, Vue 3, Nuxt, Tailwind CSS, and the modern library React — my 
 main tools for front-end development. I also have experience with Cypress and WordPress. 📚 -->
 
-JavaScript / TypeScript / React / Vue.js / Nuxt / Tailwind / Cypress
+JavaScript / TypeScript / React / Vue / Nuxt / Tailwind / Cypress
 
 <!-- I'm currently learning more about Vue 3 and Nuxt. 🌱 -->
 

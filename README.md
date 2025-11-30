@@ -13,4 +13,4 @@ I’m passionate about cars, motorbikes, fitness, great coffee and of course cod
 ## 💻 Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vue,nuxt,apollo,tailwindcss,cypress,gitlab,vscode)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejvCodes&layout=compact&title_color=fff&text_color=ffff&bg_color=161b22&hide_border=true&locale=en&custom_title=Top%20%Languages&langs_count=10)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejvCodes&layout=compact&title_color=fff&text_color=ffff&bg_color=161b22&hide_border=true&locale=en&custom_title=Top%20%Languages&langs_count=10) -->

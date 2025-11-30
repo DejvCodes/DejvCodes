@@ -6,7 +6,7 @@ skills and building web & mobile applications.
 <!-- I focus on JavaScript, TypeScript, Vue 3, Nuxt, Tailwind CSS, and the modern library React — my 
 main tools for front-end development. I also have experience with Cypress and WordPress. 📚 -->
 
-JavaScript / TypeScript / React / Vue / Nuxt / Tailwind / Cypress
+JavaScript / TypeScript / React / Next.js / Vue.js / Nuxt.js / Tailwind / Cypress
 
 <!-- I'm currently learning more about Vue 3 and Nuxt. 🌱 -->
 <!-- In the future, I’d like to develop mobile apps with React Native.  -->
@@ -20,7 +20,7 @@ and DJing with my DDJ-FLX4. It’s a space where I experiment and express ideas 
 -- ᴀ ᴘʀᴏʙʟᴇᴍ ɪꜱ ᴀ ᴄʜᴀɴᴄᴇ ꜰᴏʀ ʏᴏᴜ ᴛᴏ ᴅᴏ ʏᴏᴜʀ ʙᴇꜱᴛ --
 
 ## 💻 Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,redux,vue,nuxt,apollo,tailwindcss,cypress,gitlab,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,redux,vue,nuxt,apollo,tailwindcss,cypress,gitlab,vscode)](https://skillicons.dev)
 
 
 <!-- ## 🌐 My Socials

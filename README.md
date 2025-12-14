@@ -3,7 +3,7 @@
 I'm a 23-year-old front-end developer from the Pardubice region. I enjoy improving my coding <br> 
 skills and building web & mobile applications.
 
-JavaScript / TypeScript / React / Next / Vue / Nuxt / Tailwind / Cypress
+JavaScript / TypeScript / React / Next / Vue / Nuxt / Tailwind
 
 Most of the time, you can find me coding or at the gym. My favourite way to relax? Travelling. <br>
 I’m passionate about cars, motorbikes, fitness, great coffee and of course coding.

@@ -1,6 +1,6 @@
 ## Hi 👋🏻, I'm Dejv 👨🏻‍💻
 
-I'm a front-end developer from the Pardubice region (CZ). I enjoy improving my coding <br>
+I'm a front-end developer from the Pardubice region. I enjoy improving my coding <br>
 skills and building modern web applications.
 
 JavaScript / TypeScript / React / Next / Vue / Nuxt / Tailwind
